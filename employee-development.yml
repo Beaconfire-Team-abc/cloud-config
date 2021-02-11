@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: employee
+
+server:
+  port: 0
+
+user:
+  role: This is employee service
