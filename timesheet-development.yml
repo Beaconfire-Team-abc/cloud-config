@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: timesheet
-
-server:
-  port: 0
-
-user:
-  role: This is timesheet service
