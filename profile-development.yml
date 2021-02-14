@@ -1,2 +1,12 @@
+
 server: 
   port: 0
+
+database:
+  hibernate:
+    dialect: org.hibernate.dialect.MySQLDialect
+    driver: com.mysql.cj.jdbc.Driver
+    password: Yishen3921654
+    showsql: true
+    url: jdbc:mysql://jdbc:mysql://localhost:3306/profile
+    username: root
