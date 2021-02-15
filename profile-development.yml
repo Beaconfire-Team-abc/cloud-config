@@ -6,7 +6,7 @@ database:
   hibernate:
     dialect: org.hibernate.dialect.MySQLDialect
     driver: com.mysql.cj.jdbc.Driver
-    password: Yishen3921654
+    password: rarTyf-tejkos-revjo4
     showsql: true
-    url: jdbc:mysql://localhost:3306/profile
-    username: root
+    url: jdbc:mysql://abc-profile.cmeqa94uyegx.us-east-2.rds.amazonaws.com:3306/profile
+    username: admin
